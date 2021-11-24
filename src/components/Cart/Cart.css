@@ -1,0 +1,24 @@
+table{
+    width: 90%;
+    margin-top: 6px;
+}
+.total{
+    color:rgb(255,194,158); 
+    font-size: 20px;
+}
+.remove{
+    color:rgb(128, 142, 143)
+}
+.remove:hover{
+    color:rgb(255,194,158);
+    transition: 0.5s;
+}
+.titulo-form{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 18px;
+}
+.titulo-form h3{
+margin-bottom: 18px ;
+}

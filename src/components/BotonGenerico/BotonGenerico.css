@@ -1,0 +1,15 @@
+.boton-generico{
+    background-color:rgb(128, 142, 143);
+    border: none;
+    color:white;
+    border-radius: 10%;
+    margin: 10px;
+    font-size: 20px;
+    width:minimum;
+}
+
+.boton-generico:hover{
+    background-color:rgb(255,194,158);
+    color: white;
+    transition: 0.5s;
+}
